@@ -7,7 +7,7 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.10"
-dirwulpackage = { path = "./dirwulpackage" }
+dirwulpackage = { path = "LR1/dirwulpackage" }
 
 [build-system]
 requires = ["poetry-core"]
