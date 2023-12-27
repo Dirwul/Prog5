@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "5Sem"
+name = "5sem"
 version = "0.1.0"
 description = ""
 authors = ["Dirwul <dirwulviques@gmail.com>"]
@@ -8,6 +8,7 @@ readme = "README.md"
 [tool.poetry.dependencies]
 python = "^3.10"
 dirwulpackage = { path = "LR1/dirwulpackage" }
+
 
 [build-system]
 requires = ["poetry-core"]
