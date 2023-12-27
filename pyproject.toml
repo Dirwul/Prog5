@@ -2,9 +2,6 @@
 name = "poetry add git+https://github-com/dirwul/prog5-git@main#subdirectory=lr1/dirwulpackage"
 version = "0.1.0"
 description = "poetry install"
-authors = ["Your Name <you@example.com>"]
-license = "n"
-readme = "README.md"
 packages = [{include = "poetry add git+https:"}]
 
 [tool.poetry.dependencies]
