@@ -1,4 +1,4 @@
-from LR1.dirwulpackage.calculator_template import *
+from LR1.dirwulpackage.dirwulpackage.calculator_template import *
 
 __all__ = ['calculate']
 
