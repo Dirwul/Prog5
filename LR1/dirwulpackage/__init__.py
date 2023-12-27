@@ -1,5 +1,5 @@
-from LR1.dirwulpackage.dirwulpackage.calculator import *
-from LR1.dirwulpackage.dirwulpackage.calculator_template import *
+from LR1.dirwulpackage.calculator import *
+from LR1.dirwulpackage.calculator_template import *
 
 __all__ = calculator.__all__ + calculator_template.__all__
 

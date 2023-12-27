@@ -1,5 +1,3 @@
-from LR1.dirwulpackage.dirwulpackage.calculator_template import *
-
 __all__ = ['calculate']
 
 # Функция, выполняющая cвычисление сложного выражения
