@@ -4,35 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="300a4fda-c750-4a0b-b265-724751dbf2b5" name="Changes" comment="update pyproject.toml">
-      <change afterPath="$PROJECT_DIR$/LR1/dirwulpackage/.pypirc" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR1/dirwulpackage/setup.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR3/ApiKey.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR3/weather.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR4/fib.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LR5/valutes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extra_task/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extra_task/model.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extra_task/taskController.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extra_task/templates/createTask.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extra_task/templates/deletedTask.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extra_task/templates/mainView.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extra_task/templates/task.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extra_task/templates/tasksList.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extra_task/templates/updateTask.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/extra_task/webController.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="300a4fda-c750-4a0b-b265-724751dbf2b5" name="Changes" comment="udpate all">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LR1/dirwulpackage/calculator.py" beforeDir="false" afterPath="$PROJECT_DIR$/LR1/dirwulpackage/calculator.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LR2/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/LR2/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LR3/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/LR3/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LR4/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/LR4/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LR5/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/LR5/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LR6/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/LR6/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LR7/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/LR7/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/LR8/main.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pyproject.toml" beforeDir="false" afterPath="$PROJECT_DIR$/pyproject.toml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -181,7 +154,7 @@
       <workItem from="1703655014203" duration="7944000" />
       <workItem from="1704687200734" duration="342000" />
       <workItem from="1704775372403" duration="7047000" />
-      <workItem from="1704782492216" duration="2528000" />
+      <workItem from="1704782492216" duration="3042000" />
     </task>
     <task id="LOCAL-00001" summary="add 1 lr">
       <option name="closed" value="true" />
@@ -351,7 +324,23 @@
       <option name="project" value="LOCAL" />
       <updated>1703659576133</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="udpate all">
+      <option name="closed" value="true" />
+      <created>1704785419720</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1704785419721</updated>
+    </task>
+    <task id="LOCAL-00023" summary="udpate all">
+      <option name="closed" value="true" />
+      <created>1704785647333</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1704785647333</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -378,7 +367,8 @@
     <MESSAGE value="update setup" />
     <MESSAGE value="delete fucking setup" />
     <MESSAGE value="update pyproject.toml" />
-    <option name="LAST_COMMIT_MESSAGE" value="update pyproject.toml" />
+    <MESSAGE value="udpate all" />
+    <option name="LAST_COMMIT_MESSAGE" value="udpate all" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/5Sem$fastapi.coverage" NAME="fastapi Coverage Results" MODIFIED="1704782684488" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="" />
