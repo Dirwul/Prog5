@@ -1,5 +1,8 @@
 __all__ = ['calculate']
 
+from LR1.dirwulpackage import parse_expression
+
+
 # Функция, выполняющая cвычисление сложного выражения
 def calculate(expression):
     parsed_expression = parse_expression(expression)

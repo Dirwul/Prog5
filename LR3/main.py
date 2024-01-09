@@ -1,2 +1,4 @@
+import LR3.weather as w
+
 def run():
-    print("Hello World!")
+    w.run()

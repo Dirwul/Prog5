@@ -1,2 +1,6 @@
+from LR5.valutes import Vals
+
 def run():
-    print("Hello World!")
+    singletonInstance = Vals()
+    singletonInstance2 = Vals()
+    print(singletonInstance == singletonInstance2)
