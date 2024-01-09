@@ -4,7 +4,6 @@ from LR3.main import run as run3
 from LR4.main import run as run4
 from LR5.main import run as run5
 from LR6.main import run as run6
-from LR7.main import run as run7
 
 
 run5()

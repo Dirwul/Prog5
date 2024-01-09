@@ -1,3 +1,4 @@
+from dirwulpackage import calculate
 
 def run():
-    pass
+    calculate("1 + 3")
